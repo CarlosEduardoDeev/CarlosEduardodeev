@@ -1,5 +1,10 @@
 ### Bem vindos ao meu GitHub ! 
 
+Sou formado em ADS, tenho 24 anos e sou apaixonado por tecnologia e busco me tornar um otimo profissonal na área de programação !
+
+#### Front End JR 
+
+
 
 <br>
 
