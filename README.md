@@ -1,5 +1,5 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=180&section=header&text=Carlos Eduardo Alves Paulino Grillo&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
-<br>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=180&section=header&text=Carlos%20Eduardo%20Alves%20Paulino%20Grillo&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=CarlosEduardodeev&show_icons=true&count_private=true&hide_border=true&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
