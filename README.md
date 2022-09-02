@@ -10,9 +10,7 @@
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=CarlosEduardoDeev&theme=gotham&bg_color=0d1117&color=ffffff&line=ff0000&hide_border=true)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CarlosEduardoDeev&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+
 
 ### Main skills:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
